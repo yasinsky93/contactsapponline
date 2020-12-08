@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/vkdevelop/static/css/main.b92a4ef1.chunk.css",
+    "main.js": "/vkdevelop/static/js/main.ba4d2f6d.chunk.js",
+    "main.js.map": "/vkdevelop/static/js/main.ba4d2f6d.chunk.js.map",
+    "runtime-main.js": "/vkdevelop/static/js/runtime-main.0496051c.js",
+    "runtime-main.js.map": "/vkdevelop/static/js/runtime-main.0496051c.js.map",
+    "static/js/2.a5cc609d.chunk.js": "/vkdevelop/static/js/2.a5cc609d.chunk.js",
+    "static/js/2.a5cc609d.chunk.js.map": "/vkdevelop/static/js/2.a5cc609d.chunk.js.map",
+    "static/js/3.e3b971c3.chunk.js": "/vkdevelop/static/js/3.e3b971c3.chunk.js",
+    "static/js/3.e3b971c3.chunk.js.map": "/vkdevelop/static/js/3.e3b971c3.chunk.js.map",
+    "index.html": "/vkdevelop/index.html",
+    "static/css/main.b92a4ef1.chunk.css.map": "/vkdevelop/static/css/main.b92a4ef1.chunk.css.map",
+    "static/js/2.a5cc609d.chunk.js.LICENSE.txt": "/vkdevelop/static/js/2.a5cc609d.chunk.js.LICENSE.txt",
+    "static/media/delete.c008412c.png": "/vkdevelop/static/media/delete.c008412c.png",
+    "static/media/edit.193f0d56.png": "/vkdevelop/static/media/edit.193f0d56.png",
+    "static/media/phone.0d2861ba.png": "/vkdevelop/static/media/phone.0d2861ba.png",
+    "static/media/record.e4e3f812.png": "/vkdevelop/static/media/record.e4e3f812.png",
+    "static/media/web.039618c3.png": "/vkdevelop/static/media/web.039618c3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0496051c.js",
+    "static/js/2.a5cc609d.chunk.js",
+    "static/css/main.b92a4ef1.chunk.css",
+    "static/js/main.ba4d2f6d.chunk.js"
+  ]
+}
