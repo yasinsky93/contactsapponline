@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/contactsapponline/static/css/main.b92a4ef1.chunk.css",
-    "main.js": "/contactsapponline/static/js/main.ba4d2f6d.chunk.js",
-    "main.js.map": "/contactsapponline/static/js/main.ba4d2f6d.chunk.js.map",
+    "main.js": "/contactsapponline/static/js/main.f71fd629.chunk.js",
+    "main.js.map": "/contactsapponline/static/js/main.f71fd629.chunk.js.map",
     "runtime-main.js": "/contactsapponline/static/js/runtime-main.4e6758bf.js",
     "runtime-main.js.map": "/contactsapponline/static/js/runtime-main.4e6758bf.js.map",
-    "static/js/2.a5cc609d.chunk.js": "/contactsapponline/static/js/2.a5cc609d.chunk.js",
-    "static/js/2.a5cc609d.chunk.js.map": "/contactsapponline/static/js/2.a5cc609d.chunk.js.map",
+    "static/js/2.d0ddbf6d.chunk.js": "/contactsapponline/static/js/2.d0ddbf6d.chunk.js",
+    "static/js/2.d0ddbf6d.chunk.js.map": "/contactsapponline/static/js/2.d0ddbf6d.chunk.js.map",
     "static/js/3.e3b971c3.chunk.js": "/contactsapponline/static/js/3.e3b971c3.chunk.js",
     "static/js/3.e3b971c3.chunk.js.map": "/contactsapponline/static/js/3.e3b971c3.chunk.js.map",
     "index.html": "/contactsapponline/index.html",
     "static/css/main.b92a4ef1.chunk.css.map": "/contactsapponline/static/css/main.b92a4ef1.chunk.css.map",
-    "static/js/2.a5cc609d.chunk.js.LICENSE.txt": "/contactsapponline/static/js/2.a5cc609d.chunk.js.LICENSE.txt",
+    "static/js/2.d0ddbf6d.chunk.js.LICENSE.txt": "/contactsapponline/static/js/2.d0ddbf6d.chunk.js.LICENSE.txt",
     "static/media/delete.c008412c.png": "/contactsapponline/static/media/delete.c008412c.png",
     "static/media/edit.193f0d56.png": "/contactsapponline/static/media/edit.193f0d56.png",
     "static/media/phone.0d2861ba.png": "/contactsapponline/static/media/phone.0d2861ba.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4e6758bf.js",
-    "static/js/2.a5cc609d.chunk.js",
+    "static/js/2.d0ddbf6d.chunk.js",
     "static/css/main.b92a4ef1.chunk.css",
-    "static/js/main.ba4d2f6d.chunk.js"
+    "static/js/main.f71fd629.chunk.js"
   ]
 }
