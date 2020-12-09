@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/contactsapponline/static/css/main.b92a4ef1.chunk.css",
-    "main.js": "/contactsapponline/static/js/main.f71fd629.chunk.js",
-    "main.js.map": "/contactsapponline/static/js/main.f71fd629.chunk.js.map",
+    "main.js": "/contactsapponline/static/js/main.99d4ed35.chunk.js",
+    "main.js.map": "/contactsapponline/static/js/main.99d4ed35.chunk.js.map",
     "runtime-main.js": "/contactsapponline/static/js/runtime-main.4e6758bf.js",
     "runtime-main.js.map": "/contactsapponline/static/js/runtime-main.4e6758bf.js.map",
     "static/js/2.d0ddbf6d.chunk.js": "/contactsapponline/static/js/2.d0ddbf6d.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.4e6758bf.js",
     "static/js/2.d0ddbf6d.chunk.js",
     "static/css/main.b92a4ef1.chunk.css",
-    "static/js/main.f71fd629.chunk.js"
+    "static/js/main.99d4ed35.chunk.js"
   ]
 }
